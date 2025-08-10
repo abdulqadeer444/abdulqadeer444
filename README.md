@@ -2,7 +2,7 @@
 - 👀 I’m pursuing data analytics.
 - 🌱 I’m currently learning about data storytelling.
 - 💞️ I’m looking to collaborate on a data analysis project, volunteer, or otherwise
-- 📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/-abdul-qadeer/)
+- 📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/-aqadeer/)
   
 
 ## Skills & Tools
